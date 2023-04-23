@@ -8,11 +8,23 @@ Martin
 Van Nostrand
 07/24/1949
 (Yahoo) myemail@yahoo.com
-(Home) 22443258
+(Home) 2244325812
 --------------------
 Truman
 Burbank
 1/17/1962
 (Official) document@info.edu
 (Work) 2135179989
+--------------------
+Armando
+Martinez
+3/17/2000
+(Official) armando@gmail.com
+(Work) 7135429081
+--------------------
+Jack
+Gomez
+8/10/1992
+(Official) jackgomez@usc.edu
+(Work) 2815678943
 --------------------
